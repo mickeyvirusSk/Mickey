@@ -983,7 +983,7 @@ if __name__ == "__main__":
 	banner()
 	banner2()
 	menu()
-	fontcolor()
+	fontcolor() bay bay Mickey Virus 
 	sys.exit()
 		
 
